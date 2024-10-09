@@ -2,12 +2,14 @@
 
 hola.txt
 
-
+*.bak
 *.exe
+*.log
+
 
 /temp/
 
-EjercicioPropuesto2/*.pdf
+DAW/*.pdf
 
 *contra*
 *pass*
