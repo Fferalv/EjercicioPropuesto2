@@ -1,0 +1,15 @@
+# .gitignore
+
+hola.txt
+
+
+*.exe
+
+/temp/
+
+EjercicioPropuesto2/*.pdf
+
+*contra*
+*pass*
+
+*.[ar]
